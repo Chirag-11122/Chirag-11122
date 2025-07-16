@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Chirag 👋
 
-<!--
-**Chirag-11122/Chirag-11122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate tech explorer who enjoys turning complex problems into simple, elegant solutions. I love working on real-world projects involving Artificial Intelligence & Machine Learning  
+Data Science & NLP, Full Stack Web Development. I enjoy working with ReactJS, Javascript, flask, python and it's libraries. 
 
-Here are some ideas to get you started:
+## Currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📰 **Fake News Detector** – ML/NLP project for truth validation  
+- 📄 **AI Resume Screener** – Screening and improving resumes using NLP
+
+## Find me around the web 🌏:
+ - <a href="https://www.linkedin.com/in/chirag-makhija-21a934242/">**LinkedIn**</a>
+ - <a href="https://www.instagram.com/chnone_/">**Instagram**</a>
