@@ -11,3 +11,4 @@ Data Science & NLP, Full Stack Web Development. I enjoy working with ReactJS, Ja
 ## Find me around the web 🌏:
  - <a href="https://www.linkedin.com/in/chirag-makhija-21a934242/">**LinkedIn**</a>
  - <a href="https://www.instagram.com/chiraaaaag23">**Instagram**</a>
+ - <a href="https://t.me/Chirag_11122">**Telegram**</a>
